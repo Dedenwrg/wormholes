@@ -59,7 +59,7 @@ Masukkan Private Key https://www.limino.com/#/wallet dibagian setting
 
 ## Install Cek Log
 ```
-wget -O checkworm.sh https://raw.githubusercontent.com/pramonoutomo/wormholes-scripts/main/checkworm.sh && chmod +x checkworm.sh && ./checkworm.sh
+wget -O monitor.sh https://raw.githubusercontent.com/deden2904/wormholes/main/monitor.sh && chmod +x monitor.sh && ./monitor.sh
 ```
 
 ## Cek Log
