@@ -65,7 +65,7 @@ wget -O monitor.sh https://raw.githubusercontent.com/deden2904/wormholes/main/mo
 ## Cek Log
 ```
 cd wormholes
-bash ./checkworm.sh
+bash ./monitor.sh
 ```
 Tunggu hingga Sync
 
